@@ -5,4 +5,4 @@ I'm a computer engineering student (Unimore).
 This line is added by git on ubuntu (terminal).
 This line is addd by github webpage (firefox).
 
-Ciao Adre <3
+Hi Adre <3 you are a good programmer!
